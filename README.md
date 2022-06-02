@@ -28,8 +28,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atanu das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atanu das" height="30" width="40" /></a>
-<a href="https://fb.com/atanu das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atanu das" height="30" width="40" /></a>
+<a href="https://twitter.com/ATANU67101782" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atanu das" height="30" width="40" /></a>
+<a href="https://www.facebook.com/Believeitsreal3435/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atanu das" height="30" width="40" /></a>
 <a href="https://instagram.com/believeitsreal_69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="believeitsreal_69" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/believe itsreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="believe itsreal" height="30" width="40" /></a>
 <a href="https://discord.gg/Believe Itsreal#9966" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Believe Itsreal#9966" height="30" width="40" /></a>
