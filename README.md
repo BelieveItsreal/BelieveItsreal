@@ -3,22 +3,21 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Believeltsreal&label=Profile%20views&color=0e75b6&style=flat" alt="Atanu Das" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Believeltsreal" alt="Trophies" /></a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-[cite_start]I am an **Associate Software Engineer at GlobalLogic** [cite: 8][cite_start], specializing in building secure, scalable enterprise applications[cite: 11]. [cite_start]With a **B.Tech in Information Technology from BIT Mesra** [cite: 23, 24][cite_start], I have a proven track record of delivering high-impact solutions, from P&L analytics platforms to global ERP systems[cite: 11, 16].
+I am an **Associate Software Engineer at GlobalLogic**, specializing in building secure, scalable enterprise applications. With a **B.Tech in Information Technology from BIT Mesra**, I have a proven track record of delivering high-impact solutions, from P&L analytics platforms to global ERP systems.
 
-- [cite_start]🔭 **Current Focus**: Engineering RESTful APIs and microservices using **Spring Boot** and **Java** for global analytics platforms[cite: 12, 19].
-- [cite_start]🚀 **Past Impact**: Developed a custom **Hi-Tree data layer** to process millions of records and automated CI/CD pipelines[cite: 11, 14].
-- [cite_start]🤖 **AI Enthusiast**: Built autonomous systems including a **Self-Driving Car model** using YOLOv8 and an **AI Voice Assistant**[cite: 28, 32].
-- [cite_start]🏆 **Recognition**: Awarded the **Spot Award for Best Performer** at GlobalLogic for ownership and consistent delivery[cite: 20, 38].
-- [cite_start]💬 **Ask me about**: Spring Security, Microservices, PostgreSQL, and Computer Vision[cite: 5, 32].
-- [cite_start]📫 **Reach me**: [atanudas9263@gmail.com](mailto:atanudas9263@gmail.com) 
-- [cite_start]📄 **Portfolio**: [github.com/Believeltsreal](https://github.com/Believeltsreal) 
+- 🔭 **Current Focus**: Engineering RESTful APIs and microservices using **Spring Boot** and **Java** for global analytics platforms.
+- 🚀 **Past Impact**: Developed a custom **Hi-Tree data layer** to process millions of records and automated CI/CD pipelines.
+- 🤖 **AI Enthusiast**: Built autonomous systems including a **Self-Driving Car model** using YOLOv8 and an **AI Voice Assistant**.
+- 🏆 **Recognition**: Awarded the **Spot Award for Best Performer** at GlobalLogic for ownership and consistent delivery.
+- 💬 **Ask me about**: Spring Security, Microservices, PostgreSQL, and Computer Vision.
+- 📫 **Reach me**: [atanudas9263@gmail.com](mailto:atanudas9263@gmail.com)
+- 📄 **Portfolio**: [github.com/Believeltsreal](https://github.com/Believeltsreal)
 
 ---
 
@@ -38,13 +37,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-**AI & Testing**
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" />
 </p>
 
 ---
