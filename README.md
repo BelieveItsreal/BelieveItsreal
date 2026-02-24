@@ -56,7 +56,8 @@
 <p align="center">
   <img width="49%" 
        src="https://github-readme-stats-one-pi-17.vercel.app/api?username=BelieveItsreal&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-       
+</p>
+<p align="center">
   <img width="49%" 
        src="https://github-readme-stats-one-pi-17.vercel.app/api/top-langs/?username=BelieveItsreal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
