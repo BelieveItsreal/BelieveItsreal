@@ -1,52 +1,96 @@
-<h1 align="center">Hi 👋, I'm Atanu Das</h1>
-<h3 align="center">Associate Software Engineer at GlobalLogic | Java & Spring Boot Specialist</h3>
-
+<!-- Animated Header -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Believeltsreal&label=Profile%20views&color=0e75b6&style=flat" alt="Atanu Das" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Atanu%20Das&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Associate+Software+Engineer+at+GlobalLogic;Java+%7C+Spring+Boot+Specialist;Microservices+%7C+Cloud+%7C+AI+Enthusiast;Building+Scalable+Enterprise+Systems" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I am an **Associate Software Engineer at GlobalLogic**, specializing in building secure, scalable enterprise applications. With a **B.Tech in Information Technology from BIT Mesra**, I have a proven track record of delivering high-impact solutions, from P&L analytics platforms to global ERP systems.
+🚀 Associate Software Engineer at **GlobalLogic**  
+🎓 B.Tech in Information Technology – **BIT Mesra**  
+💡 Passionate about scalable backend systems & AI-driven solutions  
 
-- 🔭 **Current Focus**: Engineering RESTful APIs and microservices using **Spring Boot** and **Java** for global analytics platforms.
-- 🚀 **Past Impact**: Developed a custom **Hi-Tree data layer** to process millions of records and automated CI/CD pipelines.
-- 🤖 **AI Enthusiast**: Built autonomous systems including a **Self-Driving Car model** using YOLOv8 and an **AI Voice Assistant**.
-- 🏆 **Recognition**: Awarded the **Spot Award for Best Performer** at GlobalLogic for ownership and consistent delivery.
-- 💬 **Ask me about**: Spring Security, Microservices, PostgreSQL, and Computer Vision.
-- 📫 **Reach me**: [atanudas9263@gmail.com](mailto:atanudas9263@gmail.com)
-- 📄 **Portfolio**: [github.com/Believeltsreal](https://github.com/Believeltsreal)
-
----
-
-### 🛠 Languages and Tools
-
-**Back-End & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-**Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+- 🔭 Building enterprise-grade REST APIs using **Spring Boot**
+- ⚙️ Designing microservices & secure architectures
+- 📊 Built high-performance data layers processing millions of records
+- 🤖 Developed AI projects including Self-Driving Car (YOLOv8)
+- 🏆 Spot Award Winner – Best Performer at GlobalLogic
 
 ---
 
-### 📊 GitHub Stats
+## 🛠 Tech Stack
+
+### 💻 Programming Languages
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Believeltsreal&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Believeltsreal&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
+</p>
+
+### 🚀 Backend & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" />
+</p>
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Believeltsreal&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Believeltsreal&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/atanudas12/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img width="60%" src="https://streak-stats.demolab.com?user=Believeltsreal&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Believeltsreal&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Believeltsreal&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/atanudas12">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:atanudas9263@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" />
 </p>
