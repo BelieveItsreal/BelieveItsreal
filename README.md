@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-🚀 Associate Software Engineer at **GlobalLogic**  
+🚀 Software Engineer at **GlobalLogic**  
 🎓 B.Tech in Information Technology – **BIT Mesra**  
 💡 Passionate about scalable backend systems & AI-driven solutions  
 
