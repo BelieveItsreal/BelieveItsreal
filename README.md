@@ -58,7 +58,7 @@
 </p>
 <p align="center">
   <img width="49%" 
-       src="https://github-readme-stats-one-pi-17.vercel.app/api/top-langs/?username=BelieveItsreal&layout=compact&theme=tokyonight&hide_border=true" />
+       src="https://github-readme-stats-one-pi-17.vercel.app/api/top-langs/?username=BelieveItsreal&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 <p align="center">
   <img width="60%" 
