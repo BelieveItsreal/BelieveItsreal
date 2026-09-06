@@ -70,8 +70,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BelieveItsreal&theme=tokyo-night&hide_border=true&area=true" 
+  <p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BelieveItsreal/BelieveItsreal/main/dist/activity-graph.svg"
     width="95%"/>
 </p>
 
