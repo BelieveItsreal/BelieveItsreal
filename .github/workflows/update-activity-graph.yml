@@ -1,0 +1,43 @@
+name: Update activity graph
+
+on:
+  schedule:
+    # Runs once a day at 00:00 UTC. Adjust as you like.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate activity graph SVG
+        env:
+          # The default token works fine for PUBLIC contribution data.
+          # If you want private contributions counted too, create a
+          # classic PAT with the `read:user` scope, save it as a repo
+          # secret (e.g. GRAPH_TOKEN), and use that instead here.
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USERNAME: BelieveItsreal
+          GRAPH_DAYS: "31"
+          THEME: tokyo-night
+          OUTPUT_PATH: dist/activity-graph.svg
+        run: node scripts/generate-graph.mjs
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/activity-graph.svg
+          git diff --staged --quiet || git commit -m "chore: refresh activity graph [skip ci]"
+          git push
