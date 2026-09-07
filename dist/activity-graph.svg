@@ -7,14 +7,14 @@
   </defs>
   <rect width="800" height="200" rx="10" fill="#1a1b27"/>
   <text x="20" y="22" font-size="14" font-weight="600" fill="#ffffff" font-family="'Segoe UI', Helvetica, Arial, sans-serif">BelieveItsreal's Activity Graph</text>
-  <text x="780" y="22" font-size="12" fill="#a9b1d6" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif">11 contributions (last 31d)</text>
+  <text x="780" y="22" font-size="12" fill="#a9b1d6" text-anchor="end" font-family="'Segoe UI', Helvetica, Arial, sans-serif">16 contributions (last 31d)</text>
   <line x1="20" y1="32.00" x2="780" y2="32.00" stroke="#3b3f51" stroke-width="1" stroke-dasharray="2,3" />
   <line x1="20" y1="78.00" x2="780" y2="78.00" stroke="#3b3f51" stroke-width="1" stroke-dasharray="2,3" />
   <line x1="20" y1="124.00" x2="780" y2="124.00" stroke="#3b3f51" stroke-width="1" stroke-dasharray="2,3" />
   <line x1="20" y1="170.00" x2="780" y2="170.00" stroke="#3b3f51" stroke-width="1" stroke-dasharray="2,3" />
-  <path d="M20.00,170.00 L20.00,170.00 L45.33,170.00 L70.67,170.00 L96.00,170.00 L121.33,170.00 L146.67,170.00 L172.00,170.00 L197.33,170.00 L222.67,170.00 L248.00,142.40 L273.33,114.80 L298.67,32.00 L324.00,170.00 L349.33,170.00 L374.67,170.00 L400.00,142.40 L425.33,142.40 L450.67,170.00 L476.00,170.00 L501.33,170.00 L526.67,170.00 L552.00,170.00 L577.33,170.00 L602.67,170.00 L628.00,170.00 L653.33,170.00 L678.67,170.00 L704.00,170.00 L729.33,170.00 L754.67,170.00 L780.00,142.40 L780.00,170.00 Z" fill="url(#areaFill)" />
-  <path d="M20.00,170.00 L45.33,170.00 L70.67,170.00 L96.00,170.00 L121.33,170.00 L146.67,170.00 L172.00,170.00 L197.33,170.00 L222.67,170.00 L248.00,142.40 L273.33,114.80 L298.67,32.00 L324.00,170.00 L349.33,170.00 L374.67,170.00 L400.00,142.40 L425.33,142.40 L450.67,170.00 L476.00,170.00 L501.33,170.00 L526.67,170.00 L552.00,170.00 L577.33,170.00 L602.67,170.00 L628.00,170.00 L653.33,170.00 L678.67,170.00 L704.00,170.00 L729.33,170.00 L754.67,170.00 L780.00,142.40" fill="none" stroke="#7aa2f7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
-  <text x="20.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aug 7</text>
-  <text x="400.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aug 22</text>
-  <text x="780.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Sep 6</text>
+  <path d="M20.00,170.00 L20.00,170.00 L45.33,170.00 L70.67,170.00 L96.00,170.00 L121.33,170.00 L146.67,170.00 L172.00,170.00 L197.33,170.00 L222.67,142.40 L248.00,114.80 L273.33,32.00 L298.67,170.00 L324.00,170.00 L349.33,170.00 L374.67,142.40 L400.00,142.40 L425.33,170.00 L450.67,170.00 L476.00,170.00 L501.33,170.00 L526.67,170.00 L552.00,170.00 L577.33,170.00 L602.67,170.00 L628.00,170.00 L653.33,170.00 L678.67,170.00 L704.00,170.00 L729.33,170.00 L754.67,142.40 L780.00,32.00 L780.00,170.00 Z" fill="url(#areaFill)" />
+  <path d="M20.00,170.00 L45.33,170.00 L70.67,170.00 L96.00,170.00 L121.33,170.00 L146.67,170.00 L172.00,170.00 L197.33,170.00 L222.67,142.40 L248.00,114.80 L273.33,32.00 L298.67,170.00 L324.00,170.00 L349.33,170.00 L374.67,142.40 L400.00,142.40 L425.33,170.00 L450.67,170.00 L476.00,170.00 L501.33,170.00 L526.67,170.00 L552.00,170.00 L577.33,170.00 L602.67,170.00 L628.00,170.00 L653.33,170.00 L678.67,170.00 L704.00,170.00 L729.33,170.00 L754.67,142.40 L780.00,32.00" fill="none" stroke="#7aa2f7" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
+  <text x="20.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aug 8</text>
+  <text x="400.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Aug 23</text>
+  <text x="780.00" y="192" font-size="11" fill="#a9b1d6" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif">Sep 7</text>
 </svg>
