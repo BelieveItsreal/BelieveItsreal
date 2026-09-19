@@ -5,19 +5,20 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Software+Engineer+at+GlobalLogic;Java+%7C+Spring+Boot+Specialist;Microservices+%7C+Cloud+%7C+AI+Enthusiast;Building+Scalable+Enterprise+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer+at+Albertsons;Spring+Boot+%7C+React+%7C+Java+Specialist;Microservices+%7C+Cloud+%7C+AI+Enthusiast;Building+Scalable+Enterprise+Systems" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🚀 Software Engineer at **GlobalLogic**  
+🚀 Full Stack Software Engineer at **Albertsons** (2+ years of experience)<br>
+🕰️ Previously at **GlobalLogic**
 🎓 B.Tech in Information Technology – **BIT Mesra**  
-💡 Passionate about scalable backend systems & AI-driven solutions  
+💡 Passionate about scalable full-stack systems & AI-driven solutions  
 
-- 🔭 Building enterprise-grade REST APIs using **Spring Boot**
-- ⚙️ Designing microservices & secure architectures
+- 🔭 Building enterprise-grade REST APIs using **Spring Boot** and dynamic UIs with **React**
+- ⚙️ Designing microservices & secure end-to-end architectures
 - 📊 Built high-performance data layers processing millions of records
 - 🤖 Developed AI projects including Self-Driving Car (YOLOv8)
 - 🏆 Spot Award Winner – Best Performer
@@ -31,9 +32,15 @@
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,js" />
 </p>
 
-### 🚀 Backend & Frameworks
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+</p>
+
+### 🚀 Backend Frameworks & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express" />
+  <img src="https://cdn.simpleicons.org/jaeger/66CFE3" width="48" height="48" alt="Jaeger" /> 
 </p>
 
 ### 🗄 Database
